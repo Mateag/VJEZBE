@@ -1,0 +1,51 @@
+
+<!DOCTYPE HTML>
+<html lang="hr">
+	<head>
+		<title>Programiranje web aplikacija</title>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta name="description" content="">
+		<meta name="keywords" content="">
+		<meta name="author" content="Matea Gavrić">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+	</head>
+    <!---ovo je komengtar-->
+<body>
+    <h1>neuređena lisat</h1>
+    <ul>
+        <li>SAMSUNG</li>
+        <li>Apple</li>
+        <li>HUAWEI</li>
+        <li>PANASONIC</li>
+        <li>MOTOROLA</li>
+     <ul>
+         <h2>uređena Lista</h2>
+
+    <ol>
+        <li>SAMSUNG</li>
+        <li>Apple</li>
+        <li>HUAWEI</li>
+        <li>PANASONIC</li>
+        <li>MOTOROLA</li>
+     <ol>
+         <h>ugnježdena lisat</h>
+   <ul>Samsung</ul>
+        <li>GALAXY A3</li>
+        <li>GALAXY S4
+            <ul>primjer 1.1</ul>
+            <ul>primjer 1.2</ul>
+        </li> 
+        <li>GALAXY S5</li> 
+        <li>GALAXY S6 EDGE</li> 
+     </ul>
+    <ul>Apple</UL>
+         <li>iPhone6</li>
+         <li>iPhone7</li> 
+        <li>iPhone8</li> 
+        <li>iPhone9</li> 
+     </ul>
+            
+    
+</body>
+</html>
