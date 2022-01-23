@@ -1,0 +1,31 @@
+
+    <html lang="hr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>vjezba 10</title>
+		
+		<meta name="description" content="">
+		<meta name="keywords" content="">
+		<meta name="author" content="Matea Gavric">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="shortcut icon" type="image/x-icon" href="https://work2.eburza.hr/pwa/html/favicon.ico">
+		
+		<style>
+			body { margin: 1em; }
+		</style>
+	</head>
+    <link rel="icon" type="favicon" href="favicon.ico">
+	<body>
+		<div style="width: 48%; float: left;margin-right:2%">
+			<h2> <span style="color:blue">Tom &amp; Jerry VIDEO </span> </h2>
+			<video width="100%" height="100%" controls >
+	
+				<source src="tomandjerry.mp4" type="video/mp4">
+			
+			</video> 
+		</div>
+		<div style="width: 50%; float: left;">
+			<h2>CRTIC TOM &amp; JERRY </h2>
+			<iframe width="560" height="315" src="https://th.bing.com/th/id/R.c52a2a1c314f69b1f7cb69297d524964?rik=7w5jcjUwbdPSxA&riu=http%3a%2f%2fdesigngrapher.com%2fwp-content%2fuploads%2f2013%2f09%2ffolded-book-art-11.jpg&ehk=%2fQrC%2fbzIr4V5KydFOp%2fE2A6TtGlI0QkTBXxLMsR2oSU%3d&risl=&pid=ImgRaw&r=0" title="Čitanko" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		</div>
+	
+
+</body>
