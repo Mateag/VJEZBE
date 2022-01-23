@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        p {color: green;}
+    </style>
+
+<body>
+    <h1>this is h</h1>
+    <p>ths is p1</p>
+    <p>ths is p1</p>
+</body>
+</html>
